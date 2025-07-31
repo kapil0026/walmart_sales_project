@@ -12,3 +12,6 @@
 
  -- Q6) Calculate the total profit for each category by considering total_profit as (unit_price*quantity*profit_margin) 
  -- list category and total_profit ,ordered from highest to lowest profit?
+
+ -- Q7) Determine the most comman payment method for each Branch 
+ -- display branch and the preferred payment method?
