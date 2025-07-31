@@ -9,3 +9,6 @@
 -- Q4) identify busiest day for branch on the number of transaction?
 
 -- Q5) Determine the avg , min, max rating of category for each city list the city avg_rating, max_rating and min_rating?
+
+ -- Q6) Calculate the total profit for each category by considering total_profit as (unit_price*quantity*profit_margin) 
+ -- list category and total_profit ,ordered from highest to lowest profit?
