@@ -5,3 +5,5 @@
 -- Q2) Identify the highest -rated category in each branch, displaying the branch ,category, avg_rating?
 
 -- Q3) Identify the busiest day for each branch on the number of transcation?
+
+-- Q4) identify busiest day for branch on the number of transaction?
