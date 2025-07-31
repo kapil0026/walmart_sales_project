@@ -15,3 +15,6 @@
 
  -- Q7) Determine the most comman payment method for each Branch 
  -- display branch and the preferred payment method?
+
+-- Q8) Categorize sales into 3 group morning, afternoon, evening 
+ -- find out each of the shift and number of invoices ?
